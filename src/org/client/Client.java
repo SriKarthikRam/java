@@ -5,4 +5,8 @@ public void clientName()
 {
 	System.out.println("Client Name is Sriram");
 }
+private void hai() {
+	System.out.println("hi");
+
+}
 }
